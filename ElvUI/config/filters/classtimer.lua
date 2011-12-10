@@ -124,6 +124,76 @@ DF['trinkets_filter'] = {
 	CreateSpellEntry(75170), -- Lightweave
 	CreateSpellEntry(97129), --Loom of fate
 	CreateSpellEntry(96945), --Loom of fate
+	CreateSpellEntry(91173), -- Celerity (Shard of Woe)
+	CreateSpellEntry(96962), -- Soul Fragment (Necromantic Focus)
+	CreateSpellEntry(97131), -- Soul Fragment (H Necromantic Focus)
+	CreateSpellEntry(96911), -- Devour (The Hungerer)
+	CreateSpellEntry(97125), -- Devour (H The Hungerer)
+	CreateSpellEntry(96908), -- Victory (Jaws of Defeat)
+	CreateSpellEntry(96907), -- Victorius (Jaws of Defeat)
+	CreateSpellEntry(97121), -- Victory (H Jaws of Defeat)
+	CreateSpellEntry(97120), -- Victorius (H Jaws of Defeat)
+	CreateSpellEntry(96980), -- Accelerated (Vessel of Acceleration)
+	CreateSpellEntry(97142), -- Accelerated (H Vessel of Acceleration)
+	CreateSpellEntry(96977), -- Matrix Restabilized - Haste (Matrix Restabilizer)
+	CreateSpellEntry(96978), -- Matrix Restabilized - Crit (Matrix Restabilizer)
+	CreateSpellEntry(96979), -- Matrix Restabilized - Mastery (Matrix Restabilizer)
+	CreateSpellEntry(97139), -- Matrix Restabilized - Haste (H Matrix Restabilizer)
+	CreateSpellEntry(97140), -- Matrix Restabilized - Crit (H Matrix Restabilizer)
+	CreateSpellEntry(97141), -- Matrix Restabilized - Mastery (H Matrix Restabilizer)
+	CreateSpellEntry(97009), -- Ancient Petrified Seed
+	CreateSpellEntry(97010), -- Essence of the Eternal Flame
+	CreateSpellEntry(97008), -- Fiery Quintessence
+	CreateSpellEntry(97007), -- Mark of the Firelord
+	CreateSpellEntry(96988), -- Stay of Execution
+	CreateSpellEntry(96923), -- Titanic Power (Apparatus of Khaz'goroth)
+	CreateSpellEntry(97127), -- Blessing of Khaz'goroth (H Apparatus of Khaz'goroth)
+	CreateSpellEntry(96934), -- Blessing of Khaz'goroth (Apparatus of Khaz'goroth)
+	CreateSpellEntry(97117), -- Weight of a Feather (H Scales of Life)
+	CreateSpellEntry(96879), -- Weight of a Feather (Scales of Life)
+	CreateSpellEntry(101515), -- Charged Blows (Ricket's Magnetic Fireball)
+	CreateSpellEntry(100309), -- Pumped Up Aura (Dwyer's Caber)
+	CreateSpellEntry(101492), -- Summon Splashing Waters (Moonwell Phial)
+	CreateSpellEntry(100403), -- Blessing of the Moonwell (Moonwell Chalice)
+	CreateSpellEntry(107966), -- Titanic Strength (Eye of Unmaking)
+	CreateSpellEntry(109748), -- Titanic Strength (RF Eye of Unmaking)
+	CreateSpellEntry(109750), -- Titanic Strength (H Eye of Unmaking)
+	CreateSpellEntry(107962), -- Expansive Mind (Heart of Unliving)
+	CreateSpellEntry(109811), -- Expansive Mind (RF Heart of Unliving)
+	CreateSpellEntry(109813), -- Expansive Mind (H Heart of Unliving)
+	CreateSpellEntry(108008), -- Indomitable (Indomitable Pride)
+	CreateSpellEntry(107982), -- Velocity (Insignia of the Corrupted Mind)
+	CreateSpellEntry(109787), -- Velocity (RF Insignia of the Corrupted Mind)
+	CreateSpellEntry(109789), -- Velocity (H Insignia of the Corrupted Mind)
+	CreateSpellEntry(109861), -- Fury of the Beast (LFR Kiril, Fury of Beasts)
+	CreateSpellEntry(109860), -- Beast Fury (LFR Kiril, Fury of Beasts)
+	CreateSpellEntry(108011), -- Fury of the Beast (Kiril, Fury of Beasts)
+	CreateSpellEntry(108016), -- Beast Fury (Kiril, Fury of Beasts)
+	CreateSpellEntry(109864), -- Fury of the Beast (H Kiril, Fury of Beasts)
+	CreateSpellEntry(109863), -- Beast Fury (H Kiril, Fury of Beasts)
+	CreateSpellEntry(107968), -- Preternatural Evasion (Resolve of Undying)
+	CreateSpellEntry(109780), -- Preternatural Evasion (LFR Resolve of Undying)
+	CreateSpellEntry(109782), -- Preternatural Evasion (H Resolve of Undying)
+	CreateSpellEntry(107982), -- Velocity (Seal of the Seven Signs)
+	CreateSpellEntry(109802), -- Velocity (LFR Seal of the Seven Signs)
+	CreateSpellEntry(109804), -- Velocity (H Seal of the Seven Signs)
+	CreateSpellEntry(107986), -- Master Tactician (Soulshifter Vortex)
+        CreateSpellEntry(109774), -- Master Tactician (LFR Soulshifter Vortex)
+        CreateSpellEntry(109777), -- Master Tactician (H Soulshifter Vortex)
+	CreateSpellEntry(107804), -- Slowing the Sands (Ti'tahk, the Steps of Time)
+	CreateSpellEntry(109842), -- Slowing the Sands (LFR Ti'tahk, the Steps of Time)
+	CreateSpellEntry(109844), -- Slowing the Sands (H Ti'tahk, the Steps of Time)
+	CreateSpellEntry(107970), -- Combat Mind (Will of Unbinding)
+	CreateSpellEntry(109793), -- Combat Mind (LFR Will of Unbinding)
+	CreateSpellEntry(109795), -- Combat Mind (H Will of Unbinding)
+	CreateSpellEntry(107960), -- Combat Trance (Wrath of Unchaining)
+	CreateSpellEntry(109717), -- Combat Trance (LFR Wrath of Unchaining)
+	CreateSpellEntry(109719), -- Combat Trance (H Wrath of Unchaining)
+	CreateSpellEntry(102658), -- Arrow of Time
+	CreateSpellEntry(102663), -- Foul Gift (Foul Gift of the Demon Lord)
+	CreateSpellEntry(109908), -- Foul Gift (Foul Gift of the Demon Lord)
+	CreateSpellEntry(102664), -- Varo'then's Brooch 
+	CreateSpellEntry(102667), -- Veil of Lies
 	
 	--Turtle Shit
 	CreateSpellEntry(63877, true), -- Pain Suppression
